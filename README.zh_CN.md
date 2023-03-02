@@ -1,6 +1,6 @@
 ## ThinkCentre-M930q 黑苹果 OpenCore EFI
 
-![image](ScreenShot/m930q.png)
+![image](Screenshot/m930q.png)
 
 ### [English](https://github.com/hackintosh-efi/ThinkCentre-M930q)
 
