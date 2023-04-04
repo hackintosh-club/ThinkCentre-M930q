@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 机器配置
@@ -67,13 +67,14 @@
 - [SMCSuperIO.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.4](https://github.com/acidanthera/WhateverGreen)
-- [AppleALC.kext 1.8.0](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.8.1](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 
 
 ### 工具
 
 - [Hackintool](https://github.com/headkaze/Hackintool) 
+- [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 即 `OCAT`.
 - [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 即 `OCC`。
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 三码生成工具。
 - [MountEFI](https://github.com/corpnewt/MountEFI) EFI 分区挂载工具。

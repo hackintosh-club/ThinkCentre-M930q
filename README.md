@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Spec
@@ -67,14 +67,15 @@ Startup
 - [SMCSuperIO.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.4](https://github.com/acidanthera/WhateverGreen)
-- [AppleALC.kext 1.8.0](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.8.1](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 
 
 ### Tools
 
 - [Hackintool](https://github.com/headkaze/Hackintool) 
-- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA OCC.
+- [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) AKA `OCAT`.
+- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA `OCC`.
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) Generate SMBIOS.
 - [MountEFI](https://github.com/corpnewt/MountEFI) Mount EFI partition.
 - [EFI Agent](https://github.com/headkaze/EFI-Agent) Better EFI partition mount App.
