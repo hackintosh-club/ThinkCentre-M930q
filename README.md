@@ -26,8 +26,6 @@
 
 ```
 Devices
-  |-- Serial Port Setup
-    |-- Serial Port1 Address: Disabled
   |-- ATA Drive Setup
     |-- Configure STAT as: ACHI
   |-- Video Setup
