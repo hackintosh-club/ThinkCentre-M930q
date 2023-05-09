@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Spec
@@ -64,8 +64,9 @@ Startup
 - [SMCProcessor.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.6.4](https://github.com/acidanthera/WhateverGreen)
-- [AppleALC.kext 1.8.1](https://github.com/acidanthera/AppleALC)
+- [WhateverGreen.kext 1.6.5](https://github.com/acidanthera/WhateverGreen)
+- [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
+- [AppleALC.kext 1.8.2](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 
 
