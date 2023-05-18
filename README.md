@@ -84,4 +84,4 @@ Startup
 
 ### Contact Us
 
-![image](Screenshot/m930q.png)
+![image](Screenshot/QRCode.png)
