@@ -18,7 +18,7 @@
 - iGPU: Intel UHD Graphic 630
 - HDA: Realtek ALC233
 - SSD: WD SN750 512G
-- LAN: Realtek RTL8111HSD
+- LAN: Intel
 - WLAN: BCM94360CS2
 
 
@@ -83,5 +83,7 @@ Startup
 
 
 ### Contact Us
+
+QQ Group: 23304408
 
 ![image](Screenshot/QRCode.png)

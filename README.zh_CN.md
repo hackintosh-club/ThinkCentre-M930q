@@ -83,4 +83,9 @@
 
 ### 联系我们
 
+### Contact Us
+
+QQ群: 23304408
+
 ![image](Screenshot/QRCode.png)
+
