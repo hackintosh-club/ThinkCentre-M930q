@@ -56,6 +56,10 @@
   |-- 极速启动: 关闭
 ```
 
+### 注意事项
+ - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
+ - 安装前务必使用CFGLock.efi工具解锁 CFG LOCK
+![image](ScreenShot/CFGLock.efi.png)
 
 ### 系统截图
 

@@ -56,6 +56,10 @@ Startup
   |-- Fast Boot: Disabled
 ```
 
+### Notes
+ - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
+ - U Must Use CFGLock.efi Tool Unlock CFG LOCK first
+![image](ScreenShot/CFGLock.efi.png)
 
 ### Screenshot
 
