@@ -48,6 +48,10 @@
     |-- Intel(R) Virtualization技术: 打开
     |-- VT-d: 关闭
 
+电源
+   |-- 自动开机
+    |-- Wake on LAN: 关闭
+
 安全菜单
   |-- 安全启动
     |-- 安全启动: 关闭

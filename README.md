@@ -47,7 +47,10 @@ Advanced
     |-- Core Multi-Processing: Enabled
     |-- Intel(R) Virtualization Technology: Enabled
     |-- VT-d Feature: Disabled
-
+Power
+  |-- Automatic Power On
+    |-- Wake on LAN: Disabled
+    
 Security
   |-- Secure Boot
     |-- Secure Boot: Disabled
