@@ -46,7 +46,6 @@
     |-- Intel(R) HT技术: 打开
     |-- 多核心处理功能: 打开
     |-- Intel(R) Virtualization技术: 打开
-    |-- VT-d: 关闭
 
 电源
    |-- 自动开机
