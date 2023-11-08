@@ -17,6 +17,10 @@
 - Big Sur
 - Catalina (`config.catalina.plist`)
 
+Intel WLAN Notice: 
+ - You need to repalce `AirportItlwm.kext` to your macOS version.
+ - The default `AirportItlwm.kext` works on Ventura only. 
+
 
 ### Spec
 
@@ -81,7 +85,7 @@ Startup
 - [VirtualSMC.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.6](https://github.com/acidanthera/WhateverGreen)
 - [NVMeFix.kext 1.1.1](https://github.com/acidanthera/NVMeFix)
-- [AppleALC.kext 1.8.5](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.8.7](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 
 

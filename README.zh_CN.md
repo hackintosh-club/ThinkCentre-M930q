@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.6](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -16,6 +16,10 @@
 - Monterey
 - Big Sur
 - Catalina (`config.catalina.plist`)
+
+Intel 网卡注意: 
+ - 替换 `AirportItlwm.kext` 为相应的 macOS 版本 
+ - 默认 `AirportItlwm.kext` 仅支持 Ventura 系统
 
 
 ### 机器配置
@@ -81,7 +85,7 @@
 - [VirtualSMC.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.6](https://github.com/acidanthera/WhateverGreen)
 - [NVMeFix.kext 1.1.1](https://github.com/acidanthera/NVMeFix)
-- [AppleALC.kext 1.8.5](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.8.7](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 
 
