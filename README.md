@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.6](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
