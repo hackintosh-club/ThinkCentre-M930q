@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.6](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -84,7 +84,7 @@ Intel 网卡注意:
 - [SMCSuperIO.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.6](https://github.com/acidanthera/WhateverGreen)
-- [AppleALC.kext 1.8.7](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.8.8](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 
 
