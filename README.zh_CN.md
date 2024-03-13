@@ -1,5 +1,14 @@
 ## ThinkCentre-M930q 黑苹果 OpenCore EFI
 
+
+### 支持机型
+
+- M70q 
+- M80q
+- M730Q
+- M930q
+
+
 ![image](Screenshot/m930q.png)
 
 ### [English](https://github.com/hackintosh-efi/ThinkCentre-M930q)
@@ -7,11 +16,12 @@
 
 ### OpenCore
 
-[OpenCore 0.9.8](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
 
+- Sonoma
 - Ventura
 - Monterey
 - Big Sur

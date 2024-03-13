@@ -9,7 +9,7 @@
 		<key>#GITHUB</key>
 		<string>https://github.com/hackintosh-efi/ThinkCentre-M930q</string>
 		<key>#VERSION</key>
-		<string>0.9.7</string>
+		<string>0.9.9</string>
 		<key>ACPI</key>
 		<dict>
 			<key>Add</key>
@@ -596,13 +596,13 @@
 				<key>AdviseFeatures</key>
 				<false/>
 				<key>MLB</key>
-				<string>C020266094NPHC1JC</string>
+				<string>C02127802QXPHC1UE</string>
 				<key>MaxBIOSVersion</key>
 				<false/>
 				<key>ProcessorType</key>
 				<integer>0</integer>
 				<key>ROM</key>
-				<data>N87L9+HF</data>
+				<data>AAAAAAAA</data>
 				<key>SpoofVendor</key>
 				<true/>
 				<key>SystemMemoryStatus</key>
@@ -610,9 +610,9 @@
 				<key>SystemProductName</key>
 				<string>iMac20,1</string>
 				<key>SystemSerialNumber</key>
-				<string>C02CX0MNPN5T</string>
+				<string>C02G10HQPN5T</string>
 				<key>SystemUUID</key>
-				<string>C6CBDCFE-F806-4D3D-BE4E-020B42A7248D</string>
+				<string>A41E31A7-D7AE-4017-A7B4-893AC20EF31D</string>
 			</dict>
 			<key>UpdateDataHub</key>
 			<true/>
