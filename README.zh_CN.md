@@ -25,7 +25,7 @@
 - Ventura
 - Monterey
 - Big Sur
-- Catalina (`config.catalina.plist`)
+- Catalina
 
 Intel 网卡注意: 
  - 替换 `AirportItlwm.kext` 为相应的 macOS 版本 
@@ -89,13 +89,13 @@ Intel 网卡注意:
 
 ### 驱动
 
-- [Lilu.kext 1.6.7](https://github.com/acidanthera/Lilu)
-- [SMCProcessor.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
-- [SMCSuperIO.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
-- [VirtualSMC.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.6.6](https://github.com/acidanthera/WhateverGreen)
-- [AppleALC.kext 1.8.9](https://github.com/acidanthera/AppleALC)
-- [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
+- [Lilu.kext](https://github.com/acidanthera/Lilu)
+- [SMCProcessor.kext](https://github.com/acidanthera/VirtualSMC)
+- [SMCSuperIO.kext](https://github.com/acidanthera/VirtualSMC)
+- [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC)
+- [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen)
+- [AppleALC.kext](https://github.com/acidanthera/AppleALC)
+- [IntelMausi.kext](https://github.com/acidanthera/IntelMausi)
 
 
 ### 工具
@@ -108,6 +108,11 @@ Intel 网卡注意:
 - [EFI Agent](https://github.com/headkaze/EFI-Agent) 更方便的EFI分区挂载工具。
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) macOS 官方镜像下载工具。
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist 编辑器。
+
+
+### OC 主题
+
+[BsxM1](https://github.com/blackosx/BsxM1)
 
 
 ### 联系我们

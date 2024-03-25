@@ -25,7 +25,7 @@
 - Ventura
 - Monterey
 - Big Sur
-- Catalina (`config.catalina.plist`)
+- Catalina
 
 Intel WLAN Notice: 
  - You need to repalce `AirportItlwm.kext` to your macOS version.
@@ -89,13 +89,13 @@ Startup
 
 ### Kexts
 
-- [Lilu.kext 1.6.7](https://github.com/acidanthera/Lilu)
-- [SMCProcessor.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
-- [SMCSuperIO.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
-- [VirtualSMC.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.6.6](https://github.com/acidanthera/WhateverGreen)
-- [AppleALC.kext 1.8.9](https://github.com/acidanthera/AppleALC)
-- [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
+- [Lilu.kext](https://github.com/acidanthera/Lilu)
+- [SMCProcessor.kext](https://github.com/acidanthera/VirtualSMC)
+- [SMCSuperIO.kext](https://github.com/acidanthera/VirtualSMC)
+- [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC)
+- [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen)
+- [AppleALC.kext](https://github.com/acidanthera/AppleALC)
+- [IntelMausi.kext](https://github.com/acidanthera/IntelMausi)
 
 
 ### Tools
@@ -108,6 +108,11 @@ Startup
 - [EFI Agent](https://github.com/headkaze/EFI-Agent) Better EFI partition mount App.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) Build your own MacOS image.
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
+
+
+### OC Theme
+
+[BsxM1](https://github.com/blackosx/BsxM1)
 
 
 ### Contact Us
