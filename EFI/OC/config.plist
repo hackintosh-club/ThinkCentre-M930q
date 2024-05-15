@@ -8,8 +8,6 @@
 		<string>ThinkCentre-M930q</string>
 		<key>#GITHUB</key>
 		<string>https://github.com/hackintosh-efi/ThinkCentre-M930q</string>
-		<key>#VERSION</key>
-		<string>0.9.9</string>
 		<key>ACPI</key>
 		<dict>
 			<key>Add</key>
@@ -239,7 +237,7 @@
 					<key>BundlePath</key>
 					<string>AppleALC.kext</string>
 					<key>Comment</key>
-					<string>V1.8.9</string>
+					<string>V1.9.0</string>
 					<key>Enabled</key>
 					<true/>
 					<key>ExecutablePath</key>

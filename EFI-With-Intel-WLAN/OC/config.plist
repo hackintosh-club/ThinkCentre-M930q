@@ -8,8 +8,6 @@
 		<string>ThinkCentre-M930q</string>
 		<key>#GITHUB</key>
 		<string>https://github.com/hackintosh-efi/ThinkCentre-M930q</string>
-		<key>#VERSION</key>
-		<string>0.9.7</string>
 		<key>ACPI</key>
 		<dict>
 			<key>Add</key>
